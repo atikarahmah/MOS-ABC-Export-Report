@@ -1,0 +1,2 @@
+# MOS-ABC-Export-Report
+This project focused on analyzing export performance using Excel exclusively. I processed 10,000+ rows of transaction data and merged it with master item information to create a clean dataset. I implemented ABC segmentation, identified top-performing products and regions, and visualized sales trends and shipping statuses. The resulting dashboard provided actionable insights into product profitability and regional export strength.
